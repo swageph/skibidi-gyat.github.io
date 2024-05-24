@@ -1,2 +1,2 @@
 # Made by Ephram
-# eph.txt
+# Discord -- eph.txt
